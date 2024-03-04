@@ -1,0 +1,5 @@
+https://www.digitalcitizen.life/disable-ads-iwindows-11/
+https://www.digitalcitizen.life/complete-guide-turning-all-ads-windows-10/
+
+the above are steps to remove ads from the windows built-in tools such as the start menu, lock-screen, and file explorer on windows 11 and windows 10 respectively
+we should find a way to automate this process so that end-users do not need to click through multiple settings screens, tabs and pages to disable intrusive advertisements in their operating systems.
