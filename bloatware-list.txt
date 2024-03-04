@@ -1,0 +1,45 @@
+this list is meant to be used for lisitng all the known bloatware that may be found on a windows machine. 
+Either from the manufacturer as a OOB (Out of box) provided install or as a user-installed (by mistake, hopefully) bloat that is found on the system.
+
+using this list as it seems pretty comprehensive:
+https://www.digitalcitizen.life/windows-10-bloatware/
+
+Windows Default bloatware:
+- Norton AV: PUA (Potentially unwanted application) / Trialware. End Users can make their own informed decision on their Malware protection
+- 3D Viewer: useless 3d file viewer for end users or superusers
+- Adobe Express: Trialware adobe editing
+- Clipchamp: Trialware video editing
+- Facebook: Bloated social media app. Web version is superior and this app takes up too much space to be useful
+- Hidden City: Hidden Object Adventure: Pack-in game with microtransactions, never needed on a standard windows install.
+- Instagram: Bloated social media app. Web version is superior and this app takes up too much space to be useful
+- Netflix: Streaming app installed by default on Windows.
+- News: Microsoft Pack-in for news. Plugs into the new (on by default) taskbar item that just shows stock prices most of the time.
+- Prime Video: Streaming app installed by default on Windows.
+- Solitaire Collection: Pack-in game on windows install.
+- Mixed Reality Portal: Most likely not preinstalled but if so is useless unless the end-user has a HoloLens or Mixed Reality Headset.
+- Roblox: Pack-in game on Windows install. Filled with microtransactions.
+- TikTok: Streaming and social media app owned by chinese company and rumored to be borderline spyware. 
+
+Possibly installed bloatware on windows:
+- Age of Empires: Castle Siege: Pack-in game on Windows install. Filled with microtransactions.
+- Asphalt 8: Airborne: Pack-in game on Windows install. Filled with microtransactions.
+- Bubble Witch 3 Saga: Pack-in game on Windows install. Filled with microtransactions.
+- Candy Crush Friends Saga: 
+- Candy Crush Saga: 
+- FarmVille 2: Country Escape: 
+- Fitbit Coach: 
+- Gardenscapes: 
+- Phototastic Collage: instagram-style collage generator using photos. Not needed by basic users.
+- PicsArt Photo Studio: Collage Maker and Pic Editor: instagram-style collage generator using photos. Also includes basic photo editing. Not needed by basic users.
+- Print 3D: basic windows version of a 3d printer slicer application and more specialized applications are better suited such as Cura Slicer or prusa Slice
+- Spotify: Music streaming app. Requires an account.
+- Twitter: Social media application. After Elon Musk bought the company and the unsuccessful anti-bot restrictions were added, an account is required to surf the site. 
+
+Possible Manufacturer add-in bloatware:
+- McAfee LiveSafe: Malware detection and protection application, trialware
+- WinZip: Zip file application. 
+- TripAdvisor: TripAdvisor application even though there is no reason to use an app for a web service.
+- WPS Office: Freeware office suite
+- Dropbox: Cloud storage solution with free and paid tiers
+- Evernote: Freeware note-taking app.
+- Norton Internet Security: Trialware Antivirus
