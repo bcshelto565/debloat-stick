@@ -43,3 +43,71 @@ Possible Manufacturer add-in bloatware:
 - Dropbox: Cloud storage solution with free and paid tiers
 - Evernote: Freeware note-taking app.
 - Norton Internet Security: Trialware Antivirus
+
+Bloatware removed by the Windows-Debloat solution
+- 3DBuilder
+- Appconnector
+- Bing Finance
+- Bing News
+- Bing Sports
+- Bing Weather
+- Fresh Paint
+- Get started
+- Microsoft Office Hub
+- Microsoft Solitaire Collection
+- Microsoft Sticky Notes
+- OneNote
+- OneConnect
+- People
+- Skype for Desktop
+- Alarms
+- Camera
+- Maps
+- Phone
+- SoundRecorder
+- XboxApp
+- Zune Music
+- Zune Video
+- Windows communications apps
+- Minecraft
+- PowerBI
+- Network Speed Test
+- Phone
+- Messaging
+- Office Sway
+- OneConnect
+- Windows Feedback Hub
+- Bing Food And Drink
+- Bing Travel
+- Bing Health And Fitness
+- Windows Reading List
+- Twitter
+- Pandora
+- Flipboard
+- Shazam
+- CandyCrush
+- CandyCrushSoda
+- King apps
+- iHeartRadio
+- Netflix
+- DrawboardPDF
+- PicsArt-PhotoStudio
+- FarmVille 2 Country Escape
+- TuneInRadio
+- Asphalt8
+- NYT Crossword
+- CyberLink MediaSuite Essential
+- Facebook
+- Royal Revolt 2
+- Caesars Slots Free Casino
+- March of Empires
+- Phototastic Collage
+- Autodesk SketchBook
+- Duolingo
+- EclipseManager
+- ActiproSoftware
+- BioEnrollment
+- Windows Feedback
+- Xbox Game CallableUI
+- Xbox Identity Provider
+- ContactSupport.
